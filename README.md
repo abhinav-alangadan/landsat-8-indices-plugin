@@ -6,6 +6,6 @@ This plugin helps to calculate various indices from the downloaded Landsat 8 sat
 
 Download the zip file of the plugin and install in QGIS.
 
-# Dependencie
+# Dependencies
 
 The plugin is dependent upon GDAL library.
